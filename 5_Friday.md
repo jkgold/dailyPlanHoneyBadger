@@ -1,4 +1,4 @@
-Daily Plans Friday
+# Daily Plans Friday
 
 Search 9:00am Standup New Faces Helps/Review Interesting Events 9:15am Warmup FizzBuzz Morning Intro to the DOM
 
