@@ -13,4 +13,3 @@ Replace with Alphabet Position
 CSS Lesson - Box Model and Troubleshooting 12:00pm Lunch 1pm Share pre-course work sites (3 min max) 2pm Video Team Visit (tentative) CSS Lesson - Specificity, Positioning 4pm Personal Learning Time A good chunk of the class wants to attend an event this afternoon so we are postponing the Whiteboard prep lesson.
 
 4:50pm Stand Down
-
