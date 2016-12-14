@@ -1,4 +1,4 @@
-Daily Plan for Monday, 10/10/2016 Daily Plans Tuesday
+Daily Plan for Monday, 10/10/2016 Daily Plans Thursday
 
 Search 9:00am Standup New Faces Helps/Review Interesting Events 9:15am Warmup Memory Diagrams
 
